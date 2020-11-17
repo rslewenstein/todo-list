@@ -51,6 +51,7 @@ export default {
 </script>
 
 <style scoped>
+
 .input{
   margin: 5px;
 }
@@ -59,5 +60,8 @@ li{
 }
 span{
   margin: 5px;
+}
+button{
+  border-radius: 5px;
 }
 </style>
