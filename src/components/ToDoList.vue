@@ -54,4 +54,10 @@ export default {
 .input{
   margin: 5px;
 }
+li{
+  margin: 5px;
+}
+span{
+  margin: 5px;
+}
 </style>
